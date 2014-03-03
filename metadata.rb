@@ -1,5 +1,5 @@
 name              "monit_configs-gdp"
-maintainer        "Gallagher Polyn"
+maintainer        "Gallagher D. Polyn"
 maintainer_email  "gallagher.polyn@gmail.com"
 description       "Monit configs for server components"
 version           "0.0.5"
